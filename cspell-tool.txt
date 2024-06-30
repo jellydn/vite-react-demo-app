@@ -1,2 +1,5 @@
+biomejs
+Huynh
+jellydn
 automerge
 Naruto
